@@ -101,7 +101,6 @@
       * [Trafic et SEO](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/trafic/README.md)
         * [SEO et URL](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/trafic/seo-et-url.md)
         * [Moteurs de recherche](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/trafic/moteurs-de-recherche.md)
-        * [Affiliation](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/trafic/affiliation.md)
       * [Recherche](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/recherche/README.md)
         * [Préférences de recherche](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/recherche/preferences-recherche.md)
         * [Mots-clés](guide-utilisateur/configurer-boutique/configurer-parametres-boutique/recherche/mots-cles.md)
