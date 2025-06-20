@@ -6,4 +6,4 @@ Ce chapitre contient les sections suivantes :
 
 * [SEO et URL](seo-et-url.md)
 * [Moteurs de recherche](moteurs-de-recherche.md)
-* [Affiliation](affiliation.md)
+
